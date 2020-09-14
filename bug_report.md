@@ -1,6 +1,6 @@
 # How To Report Software Bugs
 
-## General
+### General
 
 0. **The User Story**
     - "Tell me about this bug that you found."
@@ -43,7 +43,7 @@
             - If so, what user were you logged in as?
     - Has anyone else found this bug?
 
-## Web Applications
+### Web Applications
 - What environment are you in?
     - dev
     - qa
@@ -57,7 +57,7 @@
     - OSX
 - what is the resolution of your screen?
 
-## Mobile Applications
+### Mobile Applications
 - What brand of device are you using?
     - Apple
     - Android
